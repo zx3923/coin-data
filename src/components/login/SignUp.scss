@@ -1,0 +1,48 @@
+.SignUp {
+  width: 100%;
+}
+
+.text-lg {
+  text-align: center;
+}
+
+p {
+  .SignUp_input {
+    margin-top: 10px;
+
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #999999;
+  }
+  .SiguUpBtndiv {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .join_row {
+    text-align: center;
+    width: 100%;
+
+    .Joindiv {
+      margin: 20px 0px 0px 0px;
+      text-align: center;
+    }
+  }
+}
+
+.SignUpBtn {
+  width: 100%;
+  height: 0px;
+  font-size: 14px;
+  padding: 17px 30px;
+  cursor: pointer;
+  background-color: rgb(110, 113, 113);
+  color: white;
+  line-height: 1px;
+  margin-top: 20px;
+  margin-bottom: 12px;
+  border-radius: 3px;
+  border-style: none;
+}
